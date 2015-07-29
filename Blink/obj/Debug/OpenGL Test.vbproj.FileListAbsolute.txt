@@ -1,0 +1,72 @@
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe.config
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.pdb
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.xml
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.Resources.resources
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbproj.GenerateResource.Cache
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.exe
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.xml
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.pdb
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbprojResolveAssemblyReference.cache
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\WindowsHookLib.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\VBTablet.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.frmMain.resources
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\WintabDN.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe.config
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.exe
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.xml
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.pdb
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\VBTablet.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\WindowsHookLib.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.pdb
+H:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.xml
+H:\OpenGL Test\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+H:\OpenGL Test\OpenGL Test\bin\Debug\WintabDN.dll
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbprojResolveAssemblyReference.cache
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.frmMain.resources
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.mouseStealer.resources
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.Resources.resources
+H:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbproj.GenerateResource.Cache
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe.config
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.exe
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.xml
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.pdb
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.dll
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+L:\OpenGL Test\OpenGL Test\bin\Debug\VBTablet.dll
+L:\OpenGL Test\OpenGL Test\bin\Debug\WindowsHookLib.dll
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.pdb
+L:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.xml
+L:\OpenGL Test\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+L:\OpenGL Test\OpenGL Test\bin\Debug\WintabDN.dll
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbprojResolveAssemblyReference.cache
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.frmMain.resources
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.Resources.resources
+L:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbproj.GenerateResource.Cache
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe.config
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.xml
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.pdb
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.dll
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+G:\OpenGL Test\OpenGL Test\bin\Debug\VBTablet.dll
+G:\OpenGL Test\OpenGL Test\bin\Debug\WindowsHookLib.dll
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.exe
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.pdb
+G:\OpenGL Test\OpenGL Test\bin\Debug\OpenGL Test.xml
+G:\OpenGL Test\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+G:\OpenGL Test\OpenGL Test\bin\Debug\WintabDN.dll
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbprojResolveAssemblyReference.cache
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.frmMain.resources
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL_Test.Resources.resources
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.vbproj.GenerateResource.Cache
+G:\OpenGL Test\OpenGL Test\obj\Debug\OpenGL Test.exe
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\NCalc.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\bLink.exe.config
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\blIink.exe.config

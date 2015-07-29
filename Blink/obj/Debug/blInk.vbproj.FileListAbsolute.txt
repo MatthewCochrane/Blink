@@ -1,0 +1,36 @@
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\blInk.exe.config
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\VBTablet.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\WindowsHookLib.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\blInk.exe
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\blInk.pdb
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\blInk.xml
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\NCalc.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\bin\Debug\WintabDN.dll
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.vbprojResolveAssemblyReference.cache
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.frmMain.resources
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.Resources.resources
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.vbproj.GenerateResource.Cache
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.exe
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.xml
+E:\My Libraries\Documents\Visual Studio 2012\Projects\OpenGL Test\OpenGL Test\obj\Debug\blInk.pdb
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\blInk.exe.config
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.exe
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.xml
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.pdb
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\OpenTK.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\OpenTK.GLControl.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\VBTablet.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\WindowsHookLib.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\blInk.exe
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\blInk.pdb
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\blInk.xml
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\Microsoft.Ink.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\NCalc.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\bin\Debug\WintabDN.dll
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.vbprojResolveAssemblyReference.cache
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.frmMain.resources
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.Resources.resources
+E:\Projects\Projects\Misc\Blink\Blink\OpenGL Test\obj\Debug\blInk.vbproj.GenerateResource.Cache
